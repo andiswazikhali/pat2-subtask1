@@ -1,6 +1,5 @@
 # pat2-subtask1
 Morse code is a communication system that represents letters, numbers and symbols using short and long signals.  
-Research on c++ code, history ,usage and encoding systems
 
 ## Overview
 Morse code is a method of transmitting text information using sequences of dots(.) and dashes (-) to present letters, numbers and punctuation.
